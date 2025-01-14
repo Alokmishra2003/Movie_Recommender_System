@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A package for movie recommender
+Author: ALOK MISHRA
+Author-email: alokmishra0504@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+
+Movies Recommender System
